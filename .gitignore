@@ -1,0 +1,4 @@
+.venv-gemini-bot/
+python-version
+__pycache__/
+.python-version
