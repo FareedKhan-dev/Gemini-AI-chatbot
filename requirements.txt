@@ -2,3 +2,4 @@ Flask==2.2.3
 google-generativeai
 gunicorn==20.0.4
 grpcio
+Werkzeug==2.2.3
